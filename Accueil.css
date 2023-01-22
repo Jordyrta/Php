@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    background: #000000;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.top {
+    top: 100px;
+    color: white;
+    background: #5584AC;
+}
+
